@@ -38,7 +38,7 @@
         <name>${project.groupId}:${project.artifactId}</name>
         <description>This library … .</description>
         <url>https://github.com/Ceci-Hpc/SharePortfolioIPM</url>
-        <sonar.organization>ceci-hpc</sonar.organization>
+        <sonar.organization>ceci</sonar.organization>
         <sonar.projectKey>Ceci-Hpc_SharePortfolioIPM</sonar.projectKey>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <sonar.java.libraries></sonar.java.libraries>
